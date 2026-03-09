@@ -1,6 +1,16 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D22%26pause%3D1000%26color%3D39FF14%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3D%25E2%259A%25A1%2BSYSTEM%2BACCESSED%2B:%2BWELCOME%2BTO%2BTHE%2BTERMINAL%2BOF%2BCIPHER-X%2B%25E2%259A%25A1%3Buser%40techieclub:~%2524%2Bwhoami%3BAnbarasu%2Ba.k.a%2BCipher-X%3Buser%40techieclub:~%2524%2Bcat%2Bmission.txt%3BBootstrapping%2Ba%2BCybersecurity%2B%2526%2BCustom%2BIoT%2BEmpire..." alt="Typing SVG" />
-</div>
+⚡ SYSTEM ACCESSED : WELCOME TO THE TERMINAL OF CIPHER-X ⚡
+
+user@techieclub:~$ whoami
+Anbarasu a.k.a Cipher-X
+
+user@techieclub:~$ cat mission.txt
+Bootstrapping a Cybersecurity & Custom IoT Empire from scratch.
+
+user@techieclub:~$ ./connect --network
+🔗 ESTABLISH LINKEDIN CONNECTION
+
+user@techieclub:~$ cat logs/day_01.txt
+🦅 READ ORIGIN STORY: Naan Veezhven Endru Ninaithayo
 
 🥷 About The Architect
 
@@ -14,27 +24,31 @@
 
 🛠️ The Arsenal
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Arch_Linux-1793D1%3Fstyle%3Dfor-the-badge%26logo%3Darch-linux%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Network_Security-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/IoT_Hardware-00979D%3Fstyle%3Dfor-the-badge%26logo%3Darduino%26logoColor%3Dwhite" />
-</p>
+Category
 
-📊 Cipher-X Stats
+Tech Stack
 
-<div align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Stats" />
-</div>
+🐧 OS / Environment
 
-📡 Command Center
+Kali Linux • Arch Linux • Terminal
 
-💼 LinkedIn (Connect with me) | 📝 My Hacker Blog (Hashnode)
+🐍 Programming
+
+Python • C++ (Arduino/IoT) • Bash
+
+🛡️ Security
+
+Hardware Pentesting • Network Security
+
+🚀 Growth
+
+SEO • Bootstrapping
 
 🚀 The Hacker's Log: Build In Public
 
-I am documenting my 30-Day Zero-Investment Challenge. No funding, no rich parents, just pure hustle.
+I am documenting my 30-Day Zero-Investment Challenge. No funding, no rich parents, just pure hustle. Click the logs below to track my progress:
 
-[Day 1] 🦅 Naan Veezhven Endru Ninaithayo - The Unfiltered Origin Story of TechieClub
+🟢 [Day 1] 🦅 The Unfiltered Origin Story of TechieClub
+
+user@techieclub:~$ exit
+Connection closed.
